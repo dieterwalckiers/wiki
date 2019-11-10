@@ -14,7 +14,7 @@
 	],
 	"build": {
 		"index": [
-			"--rendertiddler","$:/plugins/tiddlywiki/tiddlyweb/save/offline","index.html","text/plain", "krogstad" "p0ppenhu!s"],
+			"--rendertiddler","$:/plugins/tiddlywiki/tiddlyweb/save/offline","index.html","text/plain", "krogstad", "p0ppenhu!s"],
 		"favicon": [
 			"--savetiddler","$:/favicon.ico","favicon.ico"],
 		"readme": [
